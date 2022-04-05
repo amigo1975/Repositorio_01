@@ -13,6 +13,7 @@ public class TestMain {
 		context.setSortingMethod(new InsertionSort());
 		context.sortNumbers(numbers);
 		
+		// Algoritmo SelectionSort
 		context.setSortingMethod(new SelectionSort());
 		context.sortNumbers(numbers);
 		
