@@ -5,7 +5,7 @@ public class TestMain {
 		int numbers[] = {20, 50, 15, 6, 80};
 		
 		System.out.println("----------------------------------------");
-		System.out.println("Ejemplo de Patron Strategy");
+		System.out.println("Ejemplo uso Patron Strategy (DIINF)");
 		System.out.println("----------------------------------------");
 
 		SortingContext context = new SortingContext();
