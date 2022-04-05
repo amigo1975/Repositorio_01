@@ -10,6 +10,7 @@ public class TestMain {
 
 		SortingContext context = new SortingContext();
 		
+		// Algoritmo InsertionSort
 		context.setSortingMethod(new InsertionSort());
 		context.sortNumbers(numbers);
 		
